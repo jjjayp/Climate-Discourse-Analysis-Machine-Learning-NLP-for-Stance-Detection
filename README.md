@@ -6,7 +6,7 @@ The goal is to distinguish between two key themes:
 1. Climate Science – posts that discuss scientific research, evidence, and data.
 2. Climate Action – posts focused on activism, policies, and solutions.
 
-By analyzing how these themes emerge in public conversations, the project aims to shed light on how climate change is understood and acted upon in digital spaces. The project combines traditional machine learning techniques with modern transformer-based NLP models to evaluate performance across approaches:
+By analyzing how these themes are talked about in public conversations, the project aims to provide means to understand how climate change is discussed and acted upon in digital spaces. The project combines traditional machine learning techniques with modern transformer-based NLP models to evaluate performance across approaches:
 1. Classical ML models: Logistic Regression, Naïve Bayes, and Support Vector Machines
 2. Transformer models: BERT and other state-of-the-art language models
 
